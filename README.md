@@ -51,3 +51,7 @@
 ### Lab12 - Convolutional Neural Networks.
 
 1. Implementation of a convolutional neural network.
+
+### Lab13 - Negative Sampling Algorithm.
+
+1. Implementation of the Negative Sampling algorithm.
